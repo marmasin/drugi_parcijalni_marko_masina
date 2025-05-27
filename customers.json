@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Tech Solutions",
+        "email": "info@techsolutions.com",
+        "vat_id": "01234567890"
+    },
+    {
+        "name": "Green Energy",
+        "email": "info@greenenergy.com",
+        "vat_id": "12345678901"
+    },
+    {
+        "name": "Blue Sky Innovations",
+        "email": "info@blueskyinnovations.com",
+        "vat_id": "23456789012"
+    },
+    {
+        "name": "Smart Systems",
+        "email": "info@smartsystems.com",
+        "vat_id": "34567890123"
+    },
+    {
+        "name": "Future Solutions",
+        "email": "info@futuresolutions.com",
+        "vat_id": "45678901234"
+    },
+    {
+        "name": "Eco Solutions",
+        "email": "info@ecosolutions.com",
+        "vat_id": "56789012345"
+    },
+    {
+        "name": "Global Ventures",
+        "email": "info@globalventures.com",
+        "vat_id": "67890123456"
+    },
+    {
+        "name": "Digital Horizons",
+        "email": "info@digitalhorizons.com",
+        "vat_id": "78901234567"
+    },
+    {
+        "name": "Urban Innovations",
+        "email": "info@urbaninnovations.com",
+        "vat_id": "89012345678"
+    },
+    {
+        "name": "Bright Ideas",
+        "email": "info@brightideas.com",
+        "vat_id": "90123456789"
+    }
+]
